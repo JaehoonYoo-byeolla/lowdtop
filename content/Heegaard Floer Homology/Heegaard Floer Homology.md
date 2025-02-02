@@ -26,7 +26,7 @@ Not only distinguish the links, ***it detects an unknot***. The unknot is the on
 Well, this is quite personal reason. Professor said 
 >If you are geo-top graduate student, you should know how to compute Heegaard Floer homology before graduate. When I was graduate student, it was Spectral sequence. 
 
-In fact, the true reason is, I think, we can find the [[Seiberg-Witten Invariant]]  through the HF. Also, there are exotic^[1] 4-manfiolds from the HF obstruction. 
+In fact, the true reason is, I think, we can find the [[Seiberg-Witten Invariant]]  through the HF. Also, there are exotic[^1] 4-manfiolds from the HF obstruction. 
 
 
-[1]: Homeomorphic but not Diffeomorphic
+[^1]: Homeomorphic but not Diffeomorphic
