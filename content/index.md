@@ -6,3 +6,5 @@ Let's Start.
 
 My preferred tools are using [[Heegaard Floer Homology]] and [[Gauge Theory]].
 
+I am going to fill the details. Many pages are blank.
+
