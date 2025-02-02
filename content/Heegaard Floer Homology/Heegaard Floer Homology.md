@@ -15,7 +15,7 @@ date: 2025-02-02
 ---
  
 # What is HF?
-Nowdays, *Heegaard Floer Homology(HF)* is really powerful tool for the low-dimensional topology especially for 3-dimesion. In brief, Heegaard Floer homology is a categorification of [[Alexander polynomial]]. 
+Nowdays, *Heegaard Floer Homology(HF)* is really powerful tool for the low-dimensional topology especially for dimesion 3 and 4 . In brief, Heegaard Floer homology is a categorification of [[Alexander polynomial]]. 
 
 # Knot Theory Apsect
 In knot theory, Heegaard Floer Homology  really important tool. At least, HF can distuing the knots and links. By [Lickorish-Wallace Theorem](https://en.wikipedia.org/wiki/Lickorish%E2%80%93Wallace_theorem), 3-manifolds can be constructed by the [[Dehn surgery]] which  In special it detects unknot. 
