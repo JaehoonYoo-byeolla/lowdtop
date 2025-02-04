@@ -9,8 +9,8 @@ tags:
 aliases:
   - HF
   - Heegaard Floer
-permalink: 
-description: Heegaard Floer Study
+# permalink: /
+# description: Heegaard Floer Study
 date: 2023-02-02
 ---
  2/4 콩나물

@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "antoinenescklace.pages.dev",
+    baseUrl: "antoinesnecklace.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
     //   width: 1200, // width to generate with (in pixels)
     //   height: 630, // height to generate with (in pixels)
     //   excludeRoot: false, // wether to exclude "/" index path to be excluded from auto generated images (false = use auto, true = use default og image)
-    // },
+    // }
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
