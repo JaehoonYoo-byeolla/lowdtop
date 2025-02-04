@@ -13,7 +13,7 @@ permalink:
 description: Heegaard Floer Study
 date: 2023-02-02
 ---
-%%  2/3 오마카세(아마도?) %%
+ 2/4 콩나물
  
 # What is HF?
 Nowdays, *Heegaard Floer Homology(HF)* is really powerful tool for the low-dimensional topology especially for dimesion 3 and 4 . In brief, Heegaard Floer homology is a categorification of [[Alexander polynomial]]. 
