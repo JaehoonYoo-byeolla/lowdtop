@@ -19,7 +19,7 @@ date: 2023-02-02
 Nowdays, *Heegaard Floer Homology(HF)* is really powerful tool for the low-dimensional topology especially for dimension 3 and 4 . In brief, Heegaard Floer homology is a categorification of [[Alexander polynomial]]. 
 
 # Knot theory aspect
-In knot theory, Heegaard Floer Homology  really important tool. At least, HF can distinguish the knots and links. By [Lickorish-Wallace Theorem](https://en.wikipedia.org/wiki/Lickorish%E2%80%93Wallace_theorem), 3-manifolds can be constructed by the [[Dehn surgery]] with framed link.
+In knot theory, Heegaard Floer Homology  really important tool. At least, HF can distinguish the knots and links. By [Lickorish-Wallace Theorem](https://en.wikipedia.org/wiki/Lickorish%E2%80%93Wallace_theorem), 3-manifolds can be constructed by the [[Dehn surgery]] with [[Framed link]].
 
 Not only distinguish the links, ***it detects an unknot***. The unknot is the only one knot which bounds disc which implies we can get a lot of information from manifolds. For example, in dimension 4, Michael Freedman's result coming from the finding disc called [[Disc embedding theorem]].
 
