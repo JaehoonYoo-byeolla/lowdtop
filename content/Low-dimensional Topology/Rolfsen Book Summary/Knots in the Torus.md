@@ -69,7 +69,7 @@ $$h_{L_{\ast}} \leftrightarrow
 \begin{bmatrix}
 1 & 0\\
 1 & 1
-\end{bmatrix},\ h_{M_{\ast}}\leftrightarrow 
+\end{bmatrix}$$,$$\ h_{M_{\ast}}\leftrightarrow 
 \begin{bmatrix}
 1 & 1\\
 0 & 1

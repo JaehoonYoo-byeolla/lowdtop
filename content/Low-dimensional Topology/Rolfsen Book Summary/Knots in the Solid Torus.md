@@ -1,6 +1,6 @@
 ---
 title: Knots in the Solid Torus
-draft: false
+draft: true
 tags:
   - meridian
   - longitude
