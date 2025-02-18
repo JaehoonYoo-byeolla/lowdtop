@@ -37,7 +37,7 @@ $$\mathbb{S}^{1} \times \mathbb{S}^{2} = D^{2}_{21}\times \mathbb{S}^{1}_{21} \c
 So, we need to clarify the attaching maps.
 
 # Using Framed Link
-If we use the [[Framed knot|framed link]], we can easily distinguish them. Let's consider the framed unknot $K\subset \mathbb{S}^{3}$. 
+If we use the [[Knots in the Solid Torus|framed link]], we can easily distinguish them. Let's consider the framed unknot $K\subset \mathbb{S}^{3}$. 
 Since it is a framed unknot, which has a meridian and preferred longitude. 
 
 Let's think the core of $U$ and $V$, as tubular neighborhoods of the framed unknots.

@@ -1,19 +1,21 @@
 ---
-title: Framed knot
-draft: true
+title: Knots in the Solid Torus
+draft: false
 tags:
-  - framing
-  - preffered_framing
   - meridian
   - longitude
-  - linking_number
-aliases:
   - framing
-  - preffered_framing
+  - Dehn
+aliases: 
 permalink: /
 description: Setting the meridian and longitudes of the regular neighborhood of a link
 date: 2025-02-11
 ---
+>[!warning]
+>It is different with the ***[[Knots in the Torus]]***. 
+
+ 
+
 # (Solid)Torus
 $\mathbb{S}^{3}$ and $\mathbb{S}^{2} \times \mathbb{S}^{1}$ are two solid tori
 We can decompose $S^{3}$ as two solid tori.
@@ -47,6 +49,7 @@ Any two meridians of $U$ are equivalent by an ambient isotopy of $U$ in $S^{3}$.
 
 
 # Preferred Framing
-TBA
+Using [[Linking number|linking number]], we can choose the how much revolutions we need.
+
 # Application
 [[Satellite Knot]]
