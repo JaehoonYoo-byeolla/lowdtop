@@ -9,7 +9,7 @@ tags:
 aliases: 
 permalink: /
 description: asdf
-date: 2025-02-14
+date: 2025-02-19
 ---
 >[!warning]
  >It is different with the ***[[Knots in the Solid Torus]]***. 
