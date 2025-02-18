@@ -65,15 +65,23 @@ $$h_{M}\left(e^{i\theta}, e^{i\phi}\right) = \left(e^{i\theta}, e^{\left(\theta 
 Those are ''longitudinal twist'' and ''meridinal twist''. The name **twists** seem fair.
 
 These induces the isomorphism, more preciesely automorphism, of $\pi_{1}\left(\mathbb{T}^{2}\right)$. 
-$$h_{L_{\ast}} \longleftrightarrow
+
+
+$$
+h_{L_{\ast}} =
 \begin{bmatrix}
 1 & 0\\
 1 & 1
-\end{bmatrix},\ h_{M_{\ast}}\longleftrightarrow 
+\end{bmatrix}
+, \quad
+h_{M_{\ast}}=
 \begin{bmatrix}
 1 & 1\\
 0 & 1
-\end{bmatrix}.$$
+\end{bmatrix}.
+$$
+
+
 
 $$h_{L_{\ast}} \ h_{M_{\ast}} \in \text{Aut}\left(\pi_{1}\left(\mathbb{T}^{2}\right), \mathbb{Z}\right)=GL\left(2, \mathbb{Z}\right).$$
 Using these twists, we can twist a longitude $\left(1, 0\right)$ to the meridian $\left(0,1\right)$.[^9][^10]
