@@ -65,11 +65,11 @@ $$h_{M}\left(e^{i\theta}, e^{i\phi}\right) = \left(e^{i\theta}, e^{\left(\theta 
 Those are ''longitudinal twist'' and ''meridinal twist''. The name **twists** seem fair.
 
 These induces the isomorphism, more preciesely automorphism, of $\pi_{1}\left(\mathbb{T}^{2}\right)$. 
-$$h_{L_{\ast}} \leftrightarrow
+$$h_{L_{\ast}} \longleftrightarrow
 \begin{bmatrix}
 1 & 0\\
 1 & 1
-\end{bmatrix}$$,$$\ h_{M_{\ast}}\leftrightarrow 
+\end{bmatrix},\ h_{M_{\ast}}\longleftrightarrow 
 \begin{bmatrix}
 1 & 1\\
 0 & 1
